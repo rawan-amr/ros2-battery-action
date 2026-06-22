@@ -25,6 +25,7 @@ setup(
     entry_points={
         'console_scripts': [
             'battery_action_server = battery_action.battery_action_server:main',
+            'battery_action_client = battery_action.battery_action_client:main',
         ],
     },
 )
