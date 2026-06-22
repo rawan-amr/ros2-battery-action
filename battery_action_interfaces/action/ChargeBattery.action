@@ -1,0 +1,5 @@
+int64 target_level
+---
+bool success
+---
+int64 current_level
